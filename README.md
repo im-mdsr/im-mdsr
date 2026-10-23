@@ -68,5 +68,5 @@ With 9+ years of experience in software engineering and test automation, I focus
 
 ## 📫 Connect with me
 
-- LinkedIn: [linkedin.com/in/mohammed-mudassar](https://linkedin.com/in/your-profile)
+- LinkedIn: [www.linkedin.com/in/mohammed-mudassar]
 - Email: mudassars.2011@gmail.com
