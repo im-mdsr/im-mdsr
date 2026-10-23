@@ -20,7 +20,7 @@ With 9+ years of experience in software engineering and test automation, I focus
 ## 🧩 Featured Projects
 
 - **DocuMind AI — AI Document Intelligence**
-  Repo: [github.com/your-username/documind-ai](https://github.com/im-mdsr/documind-ai)
+  Repo: [github.com/im-mdsr/documind-ai](https://github.com/im-mdsr/documind-ai)
   Highlights:
   - Ingests PDFs and scanned documents (OCR), then answers questions through an AI agent
   - Hybrid retrieval: vector search + keyword search
