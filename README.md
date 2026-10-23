@@ -45,10 +45,15 @@ With 9+ years of experience in software engineering and test automation, I focus
 ## 🛠 Tech I use
 
 **Languages:** Java, Python, SQL, JavaScript
+
 **AI/LLM:** RAG, embeddings, vector search, MCP, Claude Code, GitHub Copilot
+
 **Backend:** Spring Boot, FastAPI, REST API design
+
 **Automation:** Playwright, Selenium, Serenity BDD, REST Assured, Cucumber, TestNG, UFT
+
 **Data:** PostgreSQL, SQL Server, Power BI
+
 **DevOps:** Git, Jenkins, Maven, GitLab, CI/CD pipelines
 
 ---
